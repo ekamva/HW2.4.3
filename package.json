@@ -1,0 +1,23 @@
+{
+  "name": "hw243_nodejs",
+  "version": "1.0.0",
+  "description": "first_project",
+  "main": "HW2.4.1.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/ekamva/HW2)"
+  },
+  "keywords": [
+    "npm",
+    "functions"
+  ],
+  "author": "Ekaterina Medvedeva",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}

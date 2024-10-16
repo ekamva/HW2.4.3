@@ -1,3 +1,5 @@
+import jest from "jest"
+
 let expencesExamples = [
   {
     yearlyExpences: [
@@ -30,6 +32,4 @@ function findMonth(expencesExamples) {
 }
 
 console.log(findMonth(expencesExamples));
-
-
 
